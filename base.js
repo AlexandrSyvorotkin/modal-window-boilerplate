@@ -1,4 +1,4 @@
 const $ = {}
 
-// window.$ = $
+window.$ = $
 
